@@ -1,0 +1,5 @@
+{"message":"before function call","level":"info","timestamp":"2020-09-02T08:37:57.973Z"}
+{"message":"after function call","level":"info","timestamp":"2020-09-02T08:37:57.978Z"}
+{"message":"inside file","level":"silly","timestamp":"2020-09-02T08:38:00.978Z"}
+{"message":"your problem has been rejected","level":"error","timestamp":"2020-09-02T08:38:00.979Z"}
+{"message":6,"level":"info","timestamp":"2020-09-02T08:50:40.611Z"}
